@@ -1,0 +1,5 @@
+http://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#signatures
+https://pythonhosted.org/an_example_pypi_project/sphinx.html
+http://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html#signatures
+http://www.sphinx-doc.org/en/master/usage/extensions/example_google.html#example-google
+http://www.sphinx-doc.org/en/master/usage/extensions/example_numpy.html?highlight=return
