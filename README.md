@@ -2,13 +2,14 @@
 ivy tools for vto users
 
 -------------------------------------------------------------------------------
-cd ivy-c-master/src
-make
-=> libivy.a
-cd ivy-c-master/tools
-make
-=> ivyprobe
-./ivyprobe -b 192.168.1.255
+
+cd ivy-c-master/src 
+make 
+=> libivy.a 
+cd ivy-c-master/tools 
+make 
+=> ivyprobe 
+./ivyprobe -b 192.168.1.255 
 
 -------------------------------------------------------------------------------
 cd ivy-python-master/examples
