@@ -4,8 +4,7 @@ ivy tools for vto users
 -------------------------------------------------------------------------------
 
 cd ivy-c-master/src
-
-make
+ make
 
 => libivy.a 
 
