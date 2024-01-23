@@ -26,6 +26,11 @@ pyhello.py -b 255:2010
 ivyprobe.py -b 255:2010 '(.*)'
 
 -------------------------------------------------------------------------------
+cd ivymon-py
+
+ivymon.py
+
+-------------------------------------------------------------------------------
 from paparazzi-uav launchpad:
 - https://launchpad.net/~paparazzi-uav/+archive/ubuntu/ppa/+sourcefiles/ivy-c/3.15.1ubuntu1/ivy-c_3.15.1ubuntu1.tar.xz
 - https://launchpad.net/~paparazzi-uav/+archive/ubuntu/ppa/+sourcefiles/ivy-python/3.3-0ppa2~jammy2/ivy-python_3.3.orig.tar.gz
